@@ -94,7 +94,7 @@ The program needs two arguments, the first is the maze the user wants, there are
 The second argument is the number of nodes the user wants. Example using maze3 and 500 nodes:
 
 ```
-python prm.py maze3 500
+python main.py maze3 500
 ```
 
 ## Future jobs
