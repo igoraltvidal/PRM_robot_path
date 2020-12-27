@@ -4,7 +4,10 @@
 
 This is a simple example to show the Probabilistic Road Maps, an approach to find a path for a mobile robot.
 This repository is part of a project for the Autonomous Robots' signature at the master in Artificial Intelligence/UPM. 
-The program looks like a maze solver. 
+The program looks like a maze solver.
+
+![](https://github.com/igoraltvidal/PRM_robot_path/blob/main/maze3_gif.gif)
+
 
 ## Development
 
