@@ -96,6 +96,8 @@ The second argument is the number of nodes the user wants. Example using maze3 a
 ```
 python main.py maze3 500
 ```
+![5 maze types](https://github.com/igoraltvidal/PRM_robot_path/blob/main/mazeNs.png)
+
 
 ## Future jobs
 
